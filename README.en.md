@@ -40,15 +40,15 @@ I'm interested in how agents can go beyond conversation to participate in real w
 ### Activity
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lizzjin&amp;show_icons=true&amp;hide_rank=true&amp;bg_color=0D1726&amp;title_color=6CEBD2&amp;text_color=B6C8D6&amp;icon_color=9887EF&amp;border_color=26374A&amp;border_radius=12&amp;card_width=440" alt="lizzjin's GitHub statistics" width="440">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizzjin&amp;layout=compact&amp;langs_count=6&amp;bg_color=0D1726&amp;title_color=6CEBD2&amp;text_color=B6C8D6&amp;border_color=26374A&amp;border_radius=12&amp;card_width=340" alt="Languages in lizzjin's public repositories" width="340">
+  <img src="./assets/github-stats.svg" alt="lizzjin's GitHub statistics" width="440">
+  <img src="./assets/top-languages.svg" alt="Languages in lizzjin's public repositories" width="340">
 </p>
 
 <p>
   <img src="https://streak-stats.demolab.com/?user=lizzjin&amp;background=0D1726&amp;border=26374A&amp;stroke=26374A&amp;ring=6CEBD2&amp;fire=9887EF&amp;currStreakNum=E0E9F1&amp;sideNums=E0E9F1&amp;currStreakLabel=6CEBD2&amp;sideLabels=B6C8D6&amp;dates=8399AC&amp;border_radius=12" alt="lizzjin's contribution streak" width="500">
 </p>
 
-<sub>Cards are provided by third-party services and may be cached or temporarily unavailable. Language statistics are not a measure of proficiency.</sub>
+<sub>GitHub and language cards are stored in this repository and scheduled to refresh public data daily. Language shares are not proficiency scores. The streak card still uses a third-party service.</sub>
 
 <!-- Add a blog, public email or social links only after they have been confirmed. -->
 

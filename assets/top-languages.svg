@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="232" viewBox="0 0 340 232" role="img" aria-labelledby="title desc">
+<title id="title">Languages</title>
+<desc id="desc">By code size · non-fork public repos. Updated 2026-08-31 UTC · Not a proficiency score</desc>
+<rect x="0.5" y="0.5" width="339" height="231" rx="12" fill="#0D1726" stroke="#26374A"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="22" y="33" fill="#6CEBD2" font-size="18" font-weight="600">Languages</text>
+<text x="22" y="53" fill="#8399AC" font-size="11">By code size · non-fork public repos</text>
+<rect x="22.00" y="70" width="196.97" height="9" fill="#6CEBD2"/><rect x="22" y="100" width="7" height="7" rx="2" fill="#6CEBD2"/><text x="35" y="107" fill="#B6C8D6" font-size="11">Vue</text><text x="159" y="107" fill="#E0E9F1" font-size="11" text-anchor="end">66.5%</text>
+<rect x="218.97" y="70" width="63.61" height="9" fill="#9887EF"/><rect x="180" y="100" width="7" height="7" rx="2" fill="#9887EF"/><text x="193" y="107" fill="#B6C8D6" font-size="11">Python</text><text x="317" y="107" fill="#E0E9F1" font-size="11" text-anchor="end">21.5%</text>
+<rect x="282.58" y="70" width="28.83" height="9" fill="#65ACF0"/><rect x="22" y="133" width="7" height="7" rx="2" fill="#65ACF0"/><text x="35" y="140" fill="#B6C8D6" font-size="11">JavaScript</text><text x="159" y="140" fill="#E0E9F1" font-size="11" text-anchor="end">9.7%</text>
+<rect x="311.41" y="70" width="5.60" height="9" fill="#F1C77A"/><rect x="180" y="133" width="7" height="7" rx="2" fill="#F1C77A"/><text x="193" y="140" fill="#B6C8D6" font-size="11">CSS</text><text x="317" y="140" fill="#E0E9F1" font-size="11" text-anchor="end">1.9%</text>
+<rect x="317.01" y="70" width="0.75" height="9" fill="#E595B5"/><rect x="22" y="166" width="7" height="7" rx="2" fill="#E595B5"/><text x="35" y="173" fill="#B6C8D6" font-size="11">HTML</text><text x="159" y="173" fill="#E0E9F1" font-size="11" text-anchor="end">0.3%</text>
+<rect x="317.76" y="70" width="0.24" height="9" fill="#8196AC"/><rect x="180" y="166" width="7" height="7" rx="2" fill="#8196AC"/><text x="193" y="173" fill="#B6C8D6" font-size="11">Shell</text><text x="317" y="173" fill="#E0E9F1" font-size="11" text-anchor="end">0.1%</text>
+<text x="22" y="215" fill="#8399AC" font-size="10">Updated 2026-08-31 UTC · Not a proficiency score</text>
+</g>
+</svg>

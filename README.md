@@ -50,15 +50,15 @@
 ### Activity / 开源足迹
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lizzjin&amp;show_icons=true&amp;hide_rank=true&amp;bg_color=0D1726&amp;title_color=6CEBD2&amp;text_color=B6C8D6&amp;icon_color=9887EF&amp;border_color=26374A&amp;border_radius=12&amp;card_width=440" alt="lizzjin 的 GitHub 统计" width="440">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizzjin&amp;layout=compact&amp;langs_count=6&amp;bg_color=0D1726&amp;title_color=6CEBD2&amp;text_color=B6C8D6&amp;border_color=26374A&amp;border_radius=12&amp;card_width=340" alt="lizzjin 的公开仓库语言统计" width="340">
+  <img src="./assets/github-stats.svg" alt="lizzjin 的 GitHub 统计" width="440">
+  <img src="./assets/top-languages.svg" alt="lizzjin 的公开仓库语言统计" width="340">
 </p>
 
 <p>
   <img src="https://streak-stats.demolab.com/?user=lizzjin&amp;background=0D1726&amp;border=26374A&amp;stroke=26374A&amp;ring=6CEBD2&amp;fire=9887EF&amp;currStreakNum=E0E9F1&amp;sideNums=E0E9F1&amp;currStreakLabel=6CEBD2&amp;sideLabels=B6C8D6&amp;dates=8399AC&amp;border_radius=12" alt="lizzjin 的连续贡献记录" width="500">
 </p>
 
-<sub>卡片由第三方服务生成，可能存在缓存延迟或暂时不可用；语言统计不等于个人能力评价。</sub>
+<sub>GitHub 统计与语言卡片保存在本仓库，按日更新公开数据；语言比例不代表熟练度。连续贡献卡片仍由第三方服务提供。</sub>
 
 <!-- 博客、公开邮箱和社交链接确认后再添加，不使用占位联系方式。 -->
 
