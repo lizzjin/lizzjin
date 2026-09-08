@@ -17,8 +17,8 @@ I'm interested in how agents can go beyond conversation to participate in real w
 ### Now
 
 - **Focus** · Agent development
-- **In progress** · Building personal projects, experimenting and iterating
-- **Up next** · Project introductions and usage guides when they're ready
+- **In progress** · Building [RoutePilot](https://github.com/lizzjin/RoutePilot) and contributing to open source
+- **Up next** · Improving model routing, the operations workbench, and agent workflows
 
 ## Toolbox
 
@@ -35,7 +35,44 @@ I'm interested in how agents can go beyond conversation to participate in real w
 
 <sub>Tools and exploration areas for agent development.</sub>
 
-<!-- Selected work is reserved for projects that are ready to share. Keep this section hidden until then. -->
+## Open-source work
+
+I've landed **7 pull requests in repositories I don't own**, covering provider routing, protocol compatibility, connection recovery, and task-state reliability.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/makecindy/cindy">makecindy/cindy</a></h3>
+      <p>Claude Code provider routing, Responses compatibility, Codex connection recovery, and subagent transport.</p>
+      <a href="https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3Alizzjin%20repo%3Amakecindy%2Fcindy&amp;type=pullrequests"><img src="https://img.shields.io/badge/Merged_PRs-5-0f766e?style=flat-square&amp;logo=github&amp;logoColor=white" alt="5 merged PRs in makecindy/cindy" height="24"></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/xintaofei/codeg">xintaofei/codeg</a></h3>
+      <p>Task-wait and review-state reliability in a multi-agent coding workspace, including stale completions and session cancellation.</p>
+      <a href="https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3Alizzjin%20repo%3Axintaofei%2Fcodeg&amp;type=pullrequests"><img src="https://img.shields.io/badge/Merged_PRs-2-6b4ecc?style=flat-square&amp;logo=github&amp;logoColor=white" alt="2 merged PRs in xintaofei/codeg" height="24"></a>
+    </td>
+  </tr>
+</table>
+
+<a href="https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3Alizzjin%20-user%3Alizzjin&amp;type=pullrequests">Browse all external merged PRs →</a>
+
+## Selected projects
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3><a href="https://github.com/lizzjin/RoutePilot">RoutePilot</a></h3>
+      <p>A self-hosted model gateway for small teams: local and cloud models behind Anthropic / OpenAI-compatible APIs, with provider routing, quotas, access policies, and a request-audit workbench.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&amp;logo=rust&amp;logoColor=white" alt="Rust" height="24">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" height="24">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" height="24">
+        <a href="https://github.com/lizzjin/RoutePilot/stargazers"><img src="https://img.shields.io/github/stars/lizzjin/RoutePilot?style=flat-square&amp;label=stars&amp;color=2864ad" alt="RoutePilot stars" height="24"></a>
+      </p>
+      <p><a href="https://github.com/lizzjin/RoutePilot/blob/main/docs/GETTING_STARTED.md">Getting started →</a></p>
+    </td>
+  </tr>
+</table>
 
 ### Activity
 

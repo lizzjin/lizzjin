@@ -17,8 +17,8 @@
 ### Now / 正在做
 
 - **专注方向** · Agent 开发
-- **当前状态** · 打磨个人项目，持续尝试与迭代
-- **接下来** · 项目准备好后，在这里补充介绍与使用方式
+- **当前状态** · 打磨 [RoutePilot](https://github.com/lizzjin/RoutePilot)，持续参与开源贡献
+- **接下来** · 持续完善模型网关、运维工作台与 Agent 工作流
 
 ## Toolbox
 
@@ -35,17 +35,44 @@
 
 <sub>用于 Agent 开发的工具与探索方向。</sub>
 
-<!--
-项目展示区域暂不显示。首个项目准备好后，在这里加入：
+## Open-source work / 开源贡献
 
-### Selected work / 项目
+已在非本人拥有的开源仓库中合并 **7 个 PR**，涉及供应商路由、协议兼容、连接恢复和任务状态可靠性。
 
-#### [项目名称](项目链接)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/makecindy/cindy">makecindy/cindy</a></h3>
+      <p>改进 Claude Code 供应商路由、Responses 协议兼容、Codex 连接恢复与子 Agent 传输。</p>
+      <a href="https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3Alizzjin%20repo%3Amakecindy%2Fcindy&amp;type=pullrequests"><img src="https://img.shields.io/badge/Merged_PRs-5-0f766e?style=flat-square&amp;logo=github&amp;logoColor=white" alt="5 merged PRs in makecindy/cindy" height="24"></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/xintaofei/codeg">xintaofei/codeg</a></h3>
+      <p>修复多 Agent 编码工作区中的任务等待与审查状态，覆盖旧任务完成和会话取消场景。</p>
+      <a href="https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3Alizzjin%20repo%3Axintaofei%2Fcodeg&amp;type=pullrequests"><img src="https://img.shields.io/badge/Merged_PRs-2-6b4ecc?style=flat-square&amp;logo=github&amp;logoColor=white" alt="2 merged PRs in xintaofei/codeg" height="24"></a>
+    </td>
+  </tr>
+</table>
 
-一句话说明项目解决的问题。
+<a href="https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3Alizzjin%20-user%3Alizzjin&amp;type=pullrequests">查看全部外部已合并 PR →</a>
 
-补充真实技术栈，以及可用的演示或文档链接。
--->
+## Selected projects / 作品集
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3><a href="https://github.com/lizzjin/RoutePilot">RoutePilot</a></h3>
+      <p>面向小型团队的自托管模型网关：统一接入本地与云端模型，提供 Anthropic / OpenAI 兼容接口、供应商路由、配额与访问策略，以及请求审计工作台。</p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&amp;logo=rust&amp;logoColor=white" alt="Rust" height="24">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" height="24">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" height="24">
+        <a href="https://github.com/lizzjin/RoutePilot/stargazers"><img src="https://img.shields.io/github/stars/lizzjin/RoutePilot?style=flat-square&amp;label=stars&amp;color=2864ad" alt="RoutePilot stars" height="24"></a>
+      </p>
+      <p><a href="https://github.com/lizzjin/RoutePilot/blob/main/docs/GETTING_STARTED.md">使用指南 →</a></p>
+    </td>
+  </tr>
+</table>
 
 ### Activity / 开源足迹
 
