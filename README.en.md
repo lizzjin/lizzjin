@@ -10,15 +10,24 @@
 
 ### Hi, I'm Zane 👋
 
-Also known as **lizzjin**. I'm focused on **agent development**, turning ideas into projects of my own.
+I'm **Zijin Li**, also known as **lizzjin** on GitHub. I focus on **agent development and engineering**, exploring how models can use tools, manage tasks, and carry out useful work in real workflows.
 
-I'm interested in how agents can go beyond conversation to participate in real workflows and complete concrete tasks.
+I'm interested in the path from model capabilities to usable products: breaking down tasks, passing context, coordinating agents, and recovering interrupted work. I want the agents I build to make their progress understandable, their failures traceable, and their next steps clear.
+
+I put these ideas into practice through personal projects and open-source contributions. I'm building **[RoutePilot](https://github.com/lizzjin/RoutePilot)** as infrastructure for model access, routing, and operational visibility, while contributing fixes for provider compatibility, connection recovery, and task state in agent tools.
+
+### Focus
+
+- **Agent workflows** · Task decomposition, tool use, and execution feedback, with clear inputs, results, and completion criteria.
+- **Multi-agent collaboration** · Exploring delegation, context handoffs, and state synchronization, including cancellation, retries, and concurrent execution.
+- **Tools & context** · MCP, external tool integration, and context management, so agents can work with the information and permissions a task requires.
+- **Reliability & observability** · Model routing, protocol compatibility, failure recovery, and execution records that help reproduce and diagnose problems.
 
 ### Now
 
-- **Focus** · Agent development
-- **In progress** · Building [RoutePilot](https://github.com/lizzjin/RoutePilot) and contributing to open source
-- **Up next** · Improving model routing, the operations workbench, and agent workflows
+- **Building RoutePilot** · Developing a self-hosted model gateway and operations workbench for local and cloud model access, policies, and request records.
+- **Contributing to open source** · Improving agent execution and collaboration in [Cindy](https://github.com/makecindy/cindy) and [Codeg](https://github.com/xintaofei/codeg).
+- **Exploring through practice** · Bringing tool use, context management, and multi-agent collaboration into concrete workflows and evaluating designs through real tasks.
 
 ## Toolbox
 
